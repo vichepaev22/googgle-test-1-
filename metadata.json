@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Telegram Group Admin",
+  "description": "An admin panel for managing a private Telegram group with timed access, inspired by a detailed bot specification.",
+  "requestFramePermissions": []
+}
